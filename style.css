@@ -1,0 +1,11 @@
+/*Botones, hover: #523BE4
+Fondo: #F4F4F4, #FFFFFF y #DCDCFF
+Gradiente footer: linear-gradient( to bottom, #e7e7ef 0%,  #f4f4fa 5%, #ffffff 10% );*/
+
+body{
+    background-color: #FFFFFF; 
+}
+
+footer{
+    background: linear-gradient( to bottom, #e7e7ef 0%,  #f4f4fa 5%, #ffffff 10% );
+}
